@@ -1,0 +1,4 @@
+.idea/
+DbTest.iml
+target/
+resources/data/db.properties
